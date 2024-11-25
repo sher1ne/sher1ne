@@ -63,7 +63,7 @@ Compétences acquises et en cours d’acquisition :
 
 ## 📫 **How to Reach Me**
 - 📧 **Email**: [sherine.belkadi@supinfo.com](mailto:sherine.belkadi@supinfo.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/sherine-belkadi/](#) 
+- 🌐 **LinkedIn**: [https://www.linkedin.com/in/sherine-belkadi/](#) 
 
 ---
 
