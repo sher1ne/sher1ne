@@ -1,5 +1,5 @@
 # 👋 **Hi, I'm @sher1ne**  
-I'm a passionate **software engineer** always eager to learn and grow. Currently, I am diving deep into **C++** to strengthen my programming skills and expand my expertise across various domains of IT.
+I'm a passionate **engineering student** always eager to learn and grow. Currently, I am diving deep into **C++** to strengthen my programming skills and expand my expertise across various domains of IT.
 
 ---
 
@@ -51,9 +51,9 @@ I'm a passionate **software engineer** always eager to learn and grow. Currently
 
 ## 🎓 **Education**
 
-**SUPINFO - Bachelor 1 & 2 of Engineering**  
-*Campus de Tours (2023 - 2028)*  
-Compétences acquises et en cours d’acquisition :
+**SUPINFO - Bachelor 1 & 2 of Engineering following with a Master of Engineering**  
+*Tours (2023 - 2028)*  
+Skills acquired and in the process of being acquired in:
 - **Languages**: Python, C, C++, Java, JavaScript, PHP, TypeScript, SQL.
 - **Virtualization** with VMware Workstation, Windows Server administration.
 - **Operating System Management**, process and resource management.
