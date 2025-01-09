@@ -1,5 +1,5 @@
 # 👋 **Hi, I'm @sher1ne**  
-I'm a passionate **engineering student** always eager to learn and grow. Currently, I am diving deep into **C++** to strengthen my programming skills and expand my expertise across various domains of IT.
+I'm a passionate **engineering student** always eager to learn and grow. Currently, I am diving deep into **Java** to strengthen my programming skills and expand my expertise across various domains of IT.
 
 ---
 
